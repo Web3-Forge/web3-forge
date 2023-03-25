@@ -1,4 +1,4 @@
-# web3-forge
+# Web3-Forge
 All information of Web3 Forge are present here.
 
 <a href='./Docs' >View All Docs</a>

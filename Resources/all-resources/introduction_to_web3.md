@@ -82,3 +82,5 @@ Making the public aware of Web 3.0 can only be done by educating them. Similar t
 The accessibility is an issue because of the high transaction cost. To solve the problem layer 2 scaling solutions works. Layer 2 scaling solutions define when one network is divided into many small networks and operates on top of an underlying blockchain network. For example, Bitcoin is a Layer-1 network while Lightning is Layer-2, built on Layer-1 Bitcoin. 
 </li>
 </ul>
+
+#### Author: [Fahad Iqbal Zafar](https://fahad-iqbal-zafar.netlify.app/)

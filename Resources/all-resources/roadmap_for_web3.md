@@ -1,7 +1,7 @@
 # Blockchain
 
 ## Introduction
-- [What is Web3](../introduction_to_web3)
+- [What is Web3](../all-resources/introduction_to_web3)
 
 ## Blockchain Fundamentals
 - [What is Blockchain](https://www.geeksforgeeks.org/blockchain-technology-introduction)

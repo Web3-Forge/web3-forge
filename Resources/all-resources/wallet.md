@@ -2,11 +2,11 @@
 # Decentralized Wallet
 <i>
 Cryptocurrency’s launch broke the web. Whether it was a coin’s decentralized properties or fast transactions per second, virtual currency revolutionized the financial ecosystem. But only quick crypto transfers and no intermediaries weren’t enough. Users needed software to store and manage their cryptocurrency. That’s where wallets stepped in.
-
+</i>
 Crypto wallets are associated with transferring digital assets like Bitcoin (BTC). They offer storage capabilities and provide dozens of other features. Most notably, decentralized wallets link to countless applications in the crypto ecosystem, including decentralized exchanges like dYdX.
 
 Learn how crypto wallets are decentralized, what makes them different from centralized options, and how crypto traders choose the “best” decentralized wallet. 
-</i>
+
 
 # What is a Decentralized Wallet?
 A decentralized wallet gives users complete control over their digital assets. In other words, only a decentralized wallet’s owner knows the private keys to their wallet address. With a decentralized wallet, users make peer-to-peer crypto transfers and take custody of their cryptocurrencies. That’s why people refer to decentralized crypto wallets as non-custodial, self-custodial, or private wallets.

@@ -6,5 +6,6 @@ List of all resources:
 <a href='https://web3-forge.github.io/web3-forge/Resources/all-resources/what_is_blockchain'>What is Blockchain</a><br/>
 <a href='https://web3-forge.github.io/web3-forge/Resources/all-resources/decentralized-finance'>Decentralized Finance</a><br/>
 <a href='https://web3-forge.github.io/web3-forge/Resources/all-resources/wallet'>What is Decentralized Wallet</a><br/>
+<a href='https://web3-forge.github.io/web3-forge/Resources/all-resources/what_are_dapps'>What are DApps</a><br/>
 
 

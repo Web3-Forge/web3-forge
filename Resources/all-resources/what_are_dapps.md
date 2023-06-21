@@ -27,7 +27,8 @@ Dapps have several exciting aspects:
 
 ``` 
 Did you know?
-Dapps are decentralized apps. They are like normal apps, and offer similar functions, but the key difference is that they are run on a peer-to-peer network, such as a blockchain. 
+Dapps are decentralized apps. They are like normal apps, and offer similar functions,
+but the key difference is that they are run on a peer-to-peer network, such as a blockchain. 
 ```
 
 # What are the weaknesses of dapps?

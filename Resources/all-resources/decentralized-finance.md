@@ -1,4 +1,4 @@
-# Decentalized Finance
+# Decentralized Finance
 
 - A global, open alternative to the current financial system.
 - Products that let you borrow, save, invest, trade, and more.

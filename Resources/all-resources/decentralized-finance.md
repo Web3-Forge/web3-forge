@@ -4,9 +4,11 @@
 - Products that let you borrow, save, invest, trade, and more.
 - Based on open-source technology that anyone can program with.
 
-#
-
+<br/>
+<i>
 DeFi is an open and global financial system built for the internet age – an alternative to a system that's opaque, tightly controlled, and held together by decades-old infrastructure and processes. It gives you control and visibility over your money. It gives you exposure to global markets and alternatives to your local currency or banking options. DeFi products open up financial services to anyone with an internet connection and they're largely owned and maintained by their users. So far tens of billions of dollars worth of crypto has flowed through DeFi applications and it's growing every day.
+</i>
+<br/><br/>
 
 # What's DeFi?
 
@@ -14,9 +16,8 @@ DeFi is a collective term for financial products and services that are accessibl
 
 There's a booming crypto economy out there, where you can lend, borrow, long/short, earn interest, and more. Crypto-savvy Argentinians have used DeFi to escape crippling inflation. Companies have started streaming their employees their wages in real time. Some folks have even taken out and paid off loans worth millions of dollars without the need for any personal identification.
 
-#
 
-## DeFi vs Traditional Finance:
+# DeFi vs Traditional Finance:
 
 One of the best ways to see the potential of DeFi is to understand the problems that exist today.
 
@@ -31,15 +32,24 @@ One of the best ways to see the potential of DeFi is to understand the problems 
 
 ### Comparison:
 
-|                                                DeFi                                                |                                                      Traditional Finance                                                       |
-| :------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
-|                                        You hold your money.                                        |                                                Your money is held by companies.                                                |
-|                       You control where your money goes and how it's spent.                        |                     You have to trust companies not to mismanage your money, like lend to risky borrowers.                     |
-|                               Transfers of funds happen in minutes.                                |                                        Payments can take days due to manual processes.                                         |
-|                               Transaction activity is pseudonymous.                                |                                   Financial activity is tightly coupled with your identity.                                    |
-|                                      DeFi is open to anyone.                                       |                                           You must apply to use financial services.                                            |
-|                                    The markets are always open.                                    |                                          Markets close because employees need breaks.                                          |
-| It's built on transparency – anyone can look at a product's data and inspect how the system works. | Financial institutions are closed books: you can't ask to see their loan history, a record of their managed assets, and so on. |
+<b>DeFi:</b>
+- You hold your money.
+- You control where your money goes and how it's spent.
+- Transfers of funds happen in minutes.
+- Transaction activity is pseudonymous.
+- DeFi is open to anyone.
+- The markets are always open.
+- It's built on transparency – anyone can look at a product's data and inspect how the system works.
+
+<b>Traditional finance:</b>
+- Your money is held by companies.
+- You have to trust companies not to mismanage your money, like lend to risky borrowers.
+- Payments can take days due to manual processes.
+- Financial activity is tightly coupled with your identity.
+- You must apply to use financial services.
+- Markets close because employees need breaks.
+- Financial institutions are closed books: you can't ask to see their loan history, a record of their managed assets, and so on.
+
 <br/>
 
 # It started with Bitcoin...

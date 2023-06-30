@@ -3,7 +3,7 @@
 </p>
 
 # Whitepapers:
-<a herf='https://web3-forge.github.io/web3-forge-library/Docs/whitepapers/v1-whitepaper' >v1 whitepaper</a><br/>
+<a href='https://web3-forge.github.io/web3-forge-library/Docs/whitepapers/v1-whitepaper' >v1 whitepaper</a><br/>
 <a href='https://web3-forge.github.io/web3-forge-library/Docs/whitepapers/v2-whitepaper' >v2 whitepaper</a>
 
 # Web3 Forge
